@@ -38,7 +38,7 @@ Here we show some results of the experiment
 ![result](https://github.com/CUITCHENSIYU/MFFNet-to-detect-fatigue-sEMG_/tree/master/images/result.png)
 
 
-##Reference
+## Reference
 [1] M. Papakostas, V. Kanal, M. Abujelala, K. Tsiakas, F. Makedon, Physical
 fatigue detection through EMG wearables and subjective user reports: a
 machine learning approach towards adaptive rehabilitation, in: Proceedings
