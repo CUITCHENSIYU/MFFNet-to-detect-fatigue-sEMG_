@@ -28,7 +28,7 @@ Here we show the processing results of dataset 1
 
 ![1-D](https://github.com/CUITCHENSIYU/MFFNet-to-detect-fatigue-sEMG_/tree/master/images/1-D.png)
 
-* STFT
+* GSTFT
 
 ![2-D](https://github.com/CUITCHENSIYU/MFFNet-to-detect-fatigue-sEMG_/tree/master/images/2-D.png)
 
