@@ -26,16 +26,16 @@ Here we show the processing results of dataset 1
 
 * Filter
 
-![1-D](https://github.com/CUITCHENSIYU/EMG_fatigue_detection/blob/master/venv/images/1-D.png)
+![1-D](https://github.com/CUITCHENSIYU/MFFNet-to-detect-fatigue-sEMG_/tree/master/images/1-D.png)
 
 * STFT
 
-![2-D](https://github.com/CUITCHENSIYU/EMG_fatigue_detection/blob/master/venv/images/2-D.png)
+![2-D](https://github.com/CUITCHENSIYU/MFFNet-to-detect-fatigue-sEMG_/tree/master/images/2-D.png)
 
 ## Result
 Here we show some results of the experiment
 
-![result](https://github.com/CUITCHENSIYU/EMG_fatigue_detection/blob/master/venv/images/result.png)
+![result](https://github.com/CUITCHENSIYU/MFFNet-to-detect-fatigue-sEMG_/tree/master/images/result.png)
 
 
 ##Reference
